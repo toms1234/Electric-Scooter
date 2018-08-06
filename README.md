@@ -57,7 +57,11 @@ Some of the risks we thought of:
 * Roller chain fails
 
 
-### 2. Design
+### 2. Mathematics
+// some math
+
+
+### 3. Design
 I designed a completely new scooter frame, based of normal scooters with the motor driving the rear wheel.
 
 
@@ -71,7 +75,7 @@ Main electronic components:
 * Arduino Uno V3
 
 
-### 3. Production
+### 4. Production
 Processes used:
 * Welding
 * Milling
@@ -82,7 +86,7 @@ Processes used:
 ![mechanical.jpg](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/mechanical.jpg)
 
 
-### 4. Software
+### 5. Software
 First code, needs safety implementation:
 ```C++
 #include <Servo.h>
@@ -102,7 +106,7 @@ void loop(){
 ```
 
 
-### 5. Safety
+### 6. Safety
 Applying safety by thinking back on the risks we talked about. Changing software/hardware:
 * Added a waterproof box (Short-circuit due to water intrusion/sudden temperature changes)
 * Added an emergency stop (Motor cannot be stopped)
@@ -176,7 +180,7 @@ void loop() {
 ```
 
 
-### 6. Pricing
+### 7. Pricing
 Cost: **€ ???**
 * Motor
 * Speedcontroller
@@ -202,5 +206,5 @@ Expenses I didn't take into account:
 * DC-to-DC step-down converter, wires, soldering, small fuse, resistors, ...
 
 
-### 7. Logs
+### 8. Logs
 August 2018 up to ?????.
