@@ -1,6 +1,6 @@
 # Electric-Scooter
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-## TO-DO List
+### TO-DO List
 - [ ] STAY UP TO DATE WITH THE COSTS OF THIS PROJECT
 - [ ] Add the Inventor Assembly as an image (design.png)
 - [ ] Add an image of the mechanical part finished (mechanical.jpg)
