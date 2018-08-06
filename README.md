@@ -195,7 +195,7 @@ Cost: **€ ???**
 * Cables
 
 
-Expenses we didn't take into account:
+Expenses I didn't take into account:
 * Cutting plates from milling and turning
 * Welding wire, power consumption and gas consumption of welding
 * Power consumption of the milling machine and lathe
