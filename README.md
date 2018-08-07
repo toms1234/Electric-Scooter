@@ -1,7 +1,9 @@
 # Electric-Scooter
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ### TO-DO List
-- [ ] STAY UP TO DATE WITH THE COSTS OF THIS PROJECT
+- [x] STAY UP TO DATE WITH THE COSTS OF THIS PROJECT
+
+- [x] Add mathematics program output image (mathematics.jpg)
 - [ ] Add the Inventor Assembly as an image (design.png)
 - [ ] Add an image of the mechanical part finished (mechanical.jpg)
 - [ ] Add images of implemented safety (emergency stop & wiring in waterproof box = safety1.jpg & safety2.jpg)
