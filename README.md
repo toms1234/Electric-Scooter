@@ -58,8 +58,8 @@ Some of the risks we thought of:
 
 
 ### 2. Mathematics
-// some math
-
+Took me less than 10 mins to write this simple mathematics program which will give me an easier time choosing a gear ratio:
+![mathematics.jpg](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/mathematics.jpg)
 
 ### 3. Design
 I designed a completely new scooter frame, based of normal scooters with the motor driving the rear wheel.
