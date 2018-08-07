@@ -62,7 +62,7 @@ Took me less than 10 mins to write this simple mathematics program which will gi
 ![mathematics.jpg](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/mathematics.jpg)
 
 ### 3. Design
-I designed a completely new scooter frame, based of normal scooters with the motor driving the rear wheel.
+I'm designing a completely new scooter frame, based of casual scooters with the motor driving the rear wheel.
 
 
 ![design.png](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/design.png)
@@ -107,7 +107,7 @@ void loop(){
 
 
 ### 6. Safety
-Applying safety by thinking back on the risks we talked about. Changing software/hardware:
+Applying safety by thinking back on the risks I talked about. Changing software/hardware:
 * Added a waterproof box (Short-circuit due to water intrusion/sudden temperature changes)
 * Added an emergency stop (Motor cannot be stopped)
 * Added a main switch
@@ -117,7 +117,7 @@ Applying safety by thinking back on the risks we talked about. Changing software
 ![safety2.jpg](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/safety2.jpg)
 
 
-* Added ramping in our code (Accelerate too fast/decelerate too slowly)
+* Added ramping in my code (Accelerate too fast/decelerate too slowly)
 ```C++
 #include <Servo.h>
 Servo esc;
