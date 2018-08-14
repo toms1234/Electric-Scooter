@@ -68,7 +68,7 @@ The code is in the source. I later realised I could've simply used Excel...
 I'm designing a completely new scooter frame, based of casual scooters with the motor driving the rear wheel.
 
 
-![design.png](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/design.png)
+![design.gif](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/design.gif)
 
 
 Main electronic components:
