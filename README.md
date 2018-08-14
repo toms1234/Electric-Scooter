@@ -71,7 +71,7 @@ I'm designing a completely new scooter frame, based of casual scooters with the 
 ![design.gif](https://github.com/rubenvanopstal/Electric-Scooter/blob/master/README_IMGS/design.gif)
 
 
-Main electronic components:
+Main electronic components which are going inside the waterproof box:
 * Turnigy Aerodrive SK3 - 6374-149KV Brushless Outrunner Motor
 * YEP 120A HV (4~14S) Brushless Speed Controller (OPTO)
 * ZIPPY Compact 5000mAh 6S 25C Lipo Pack
