@@ -79,7 +79,7 @@ Main electronic components which are going inside the waterproof box:
 
 
 ### 4. Production
-Processes used:
+Processes used to fabricate the scooter:
 * Welding
 * Milling
 * Turning
