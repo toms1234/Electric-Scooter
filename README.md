@@ -189,6 +189,7 @@ Cost: **€ ???**
 * Speedcontroller
 * Programming card
 * Batteries (5S & 6S LiPo)
+* LiPo Balance charger
 * Scooter wheels (200mm x 50mm = 8“)
 * Sprockets (12 tooth & 36 tooth 3/8“ x 7/32“ DIN ISO 606)
 * Roller chain (3/8“ x 7/32“ DIN ISO 606)
