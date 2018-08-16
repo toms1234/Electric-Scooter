@@ -1,21 +1,21 @@
 #include <Servo.h>
 Servo esc;
- 
+
 #define throttlePin A0
- 
+
 #define MIN_READ_VALUE 178
 #define MAX_READ_VALUE 880
 #define MAX_SPEED_DIFF 10
 #define MAX_SETPOINT 700
 #define MAX_PWM 180
- 
+
 float throttleValue, throttleSafe, speed_diff, acceleration, setpoint, pwmCalc;
- 
+
 void setup() {
   pinMode(throttlePin, INPUT);
   esc.attach(8);
 }
- 
+
 void loop() {  
   throttleValue = analogRead(throttlePin);
   if ((throttleValue > (MIN_READ_VALUE - 60)) && (throttleValue < (MAX_READ_VALUE + 20)))
@@ -26,10 +26,10 @@ void loop() {
     } else if (abs(setpoint) > 695) {
       setpoint = 695;
     }
- 
+
     throttleSafe = (setpoint * MAX_PWM)/MAX_SETPOINT;
     speed_diff = setpoint - pwmCalc;
- 
+
     if (speed_diff > 2) {
       acceleration += 2;
       delay(50);
@@ -57,4 +57,3 @@ void loop() {
   }
   
 }
-
