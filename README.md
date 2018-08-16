@@ -29,7 +29,7 @@ The choices I made about the parts are discussed and compared with other possibi
 The problems I faced during this project and how I fixed these problems are also discussed and explained. I also made a cost price of my scooter and compared it to current market offers of electric scooters.
 
 
-## Process
+## The Process
 ### 1. Risks
 Some of the risks we thought of:
 * Motor cannot be stopped
