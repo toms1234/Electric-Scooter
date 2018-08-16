@@ -10,5 +10,5 @@ const double wheelDia = 0.2;	// meters
 
 const double kmh_mph_ratio = 0.6213712;
 
-const double gravity = 9.81;				// m/s^2
+const double gravity = 9.81;		// m/s^2
 const double scooterWeight = 10;	// kg
