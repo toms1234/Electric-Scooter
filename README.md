@@ -64,6 +64,11 @@ Took me less than 10 mins to write this simple mathematics program which will gi
 
 The code is in the source. I later realised I could've simply used Excel...
 
+As seen in the above (left) console output a gear ratio of 12 to 36 would do fine. I chose to go with the following parts:
+* Drive sprocket (12 tooth 3/8“ x 7/32“ DIN ISO 606)
+* Driven sprocket (36 tooth 3/8“ x 7/32“ DIN ISO 606)
+* Roller chain (3/8“ x 7/32“ DIN ISO 606)
+
 ### 3. Design
 I'm designing a completely new scooter frame, based of casual scooters with the motor driving the rear wheel.
 
@@ -204,8 +209,8 @@ Cost: **€ ???**
 
 
 Expenses I didn't take into account:
-* Cutting plates from milling and turning
-* Welding wire, power consumption and gas consumption of welding
+* Cutting plates from the milling and turning process
+* Welding wire, power consumption and gas consumption from the welding process
 * Power consumption of the milling machine and lathe
 * DC-to-DC step-down converter, wires, soldering, small fuse, resistors, ...
 
