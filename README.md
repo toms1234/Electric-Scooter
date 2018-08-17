@@ -22,7 +22,7 @@ Top speed: ??? km/h ≈ ??? mph. [Video demonstration](http://www.youtube.com/wa
 ## The Idea
 A design and practical implementation of a three-phase brushless DC (BLDC) motor control system for an electric scooter. 
 
-My goal is to create an electric scooter, the prestation of the scooter is an important piece. But safety is still very important to me. In this project I will address several possibilities to make the scooter safer.
+My goal is to create an electric scooter that is powerful enough to pull me up hills while still keeping my own (and of course other road users) safety in mind. In this project I will address several possibilities to make the scooter safer.
 
 The choices I made about the parts are discussed and compared with other possibilities.
 
@@ -81,6 +81,8 @@ Main electronic components which are going inside the waterproof box:
 * YEP 120A HV (4~14S) Brushless Speed Controller (OPTO)
 * ZIPPY Compact 5000mAh 6S 25C Lipo Pack
 * Arduino Uno V3
+
+I chose to go with the above electronic components simply because I had already bought these for my [electric bike](https://github.com/rubenvanopstal/Electric-Bike) which I had disassembled before starting this project.
 
 
 ### 4. Production
