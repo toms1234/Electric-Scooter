@@ -31,7 +31,7 @@ The problems I faced during this project and how I fixed these problems are also
 
 ## The Process
 ### 1. Risks
-Some of the risks we thought of:
+Some of the risks I thought of:
 * Motor cannot be stopped
 * Insufficient braking capacity
 * Mass inertia
